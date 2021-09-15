@@ -13,7 +13,7 @@
 ❤love to talk to people and share knowledge.
   
 ## 🛠 Skills
-✨ Data science ✨ NLP ✨ Tableau ✨ Data Visualization ✨ Machine Learning ✨ Data Mining ✨ Python ✨ R Programming ✨
+ Data science ✨ NLP ✨ Tableau ✨ Data Visualization ✨ Machine Learning ✨ Data Mining ✨ Python ✨ R Programming 
 
   
 ## 🔗 Links
